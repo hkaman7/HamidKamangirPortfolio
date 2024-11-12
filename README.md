@@ -1,14 +1,58 @@
-# AI Research Scientist
+# 🤖 AI Research Scientist
 
-## EDUCATION
-- Ph.D. Agricultural & Environmental Engineering | UC Davis, CA, USA (Dec 2024)
-- M.Sc. Computer Science | Texas A&M University, TX, USA (Dec 2019)
-  
+*Innovative, impact-driven AI researcher with expertise in environmental modeling, climate science, and cutting-edge deep learning techniques.*
 
-## WORK EXPERIENCE
-- Postdoctoral Research Fellow @ UC Davis. 
-- Research Intern @ Microsoft.
-      Developing a vision transformer-based model for super-resolution of CMIP datasets using high-resolution ERA5
-      data, with a focus on global-scale drought forecasting.
-- AI Research Associate II @ Texas A&M University.
-      Developing 3D CNN based model for coastal fog forecasting and developing generative deep learning model for thunderstorm prediction.
+---
+
+## 🎓 Education
+- **Ph.D. in Agricultural & Environmental Engineering**  
+  *University of California, Davis, CA, USA*  
+  *Expected December 2024*
+- **M.Sc. in Computer Science**  
+  *Texas A&M University, TX, USA*  
+  *December 2019*
+
+---
+
+## 💼 Professional Experience
+
+### Postdoctoral Research Fellow  
+**University of California, Davis**  
+🔹 Conducting AI-driven research for environmental and climate science.  
+🔹 Integrating machine learning models with large-scale environmental datasets.
+
+### Research Intern  
+**Microsoft**  
+🔹 Developed a Vision Transformer model for super-resolution of CMIP datasets with ERA5 data.  
+🔹 Focused on creating high-resolution global drought forecasting models.
+
+### AI Research Associate II  
+**Texas A&M University**  
+🔹 Built a 3D CNN model for coastal fog forecasting.  
+🔹 Developed generative deep learning techniques for thunderstorm prediction.
+
+---
+
+## 🛠️ Skills & Expertise
+
+- **Machine Learning & Deep Learning**: Vision Transformers, 3D CNNs, Generative Models  
+- **Environmental Data Analysis**: Climate datasets (CMIP, ERA5), large-scale modeling  
+- **Programming**: Python, TensorFlow, PyTorch, MATLAB  
+
+---
+
+## 🧩 Projects
+
+- **Global Drought Forecasting Model**  
+  *Leveraging Vision Transformers and climate datasets for accurate drought prediction.*  
+- **Thunderstorm Prediction with Generative Models**  
+  *Creating synthetic weather data to enhance forecasting accuracy.*
+
+---
+
+## 📬 Contact
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- **GitHub**: [Your GitHub Profile](https://github.com/yourprofile)
+---
