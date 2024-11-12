@@ -42,14 +42,16 @@
 ## 📚 Publications  
 [View on Google Scholar](https://scholar.google.com/citations?user=YLYJGQ8AAAAJ&hl=en)
 
-1. **Kamangir, H.**, et al. *FogNet-v2.0: Explainable Physics-Informed Vision Transformer for Coastal Fog Forecasting.* ESS Open Archive, 2024.
-2. Bafti, A.G., et al. *Automated Evapotranspiration Estimation via Hybrid Models.* Atmospheric Research, 2024.
-3. **Kamangir, H.**, et al. *Spatio-Temporal Yield Estimation in Vineyards via Deep Learning.* Computers and Electronics in Agriculture, 2024.
-4. Krell, E., **Kamangir, H.**, et al. *Improving XAI for Geoscience Models Using Correlated High-Dimensional Rasters.* Environmental Data Science, 2023.
-5. **Kamangir, H.**, et al. *Importance of 3D Convolution and Physics in Deep Learning for Coastal Fog.* Environmental Modelling & Software, 2022.
-6. **Kamangir, H.**, et al. *FogNet: A 3D CNN with Double-Branch Dense Blocks for Fog Prediction.* Machine Learning with Applications, 2021.
-7. Alizadeh, B., **Kamangir, H.**, et al. *Streamflow Prediction with Attention-Based LSTM.* Journal of Hydrology, 2021.
-8. **Kamangir, H.**, et al. *Deep-Learning Model for Thunderstorm Prediction in South Texas.* Meteorological Applications, 2020.
+1. **Kamangir, H.**, Krell, E., Collins, W., King, S.A. and Tissot, P., 2024. FogNet-v2. 0: **Explainable Physics-Informed Vision Transformer for Coastal Fog Forecasting**. ESS Open Archive eprints, 327, pp.172191653-32706065.
+2. Bafti, A.G., Ahmadi, A., Abbasi, A., **Kamangir, H**., Jamali, S. and Hashemi, H., 2024. **Automated actual evapotranspiration estimation: Hybrid model of a novel attention based U-Net and metaheuristic optimization algorithms**. Atmospheric Research, 297, p.107107.
+3. **Kamangir, H.**, Sams, B.S., Dokoozlian, N., Sanchez, L. and Earles, J.M., 2024. **Large-scale spatio-temporal yield estimation via deep learning using satellite and management data fusion in vineyards**. Computers and Electronics in Agriculture, 216, p.108439.
+4. Krell, E., **Kamangir, H.,** Collins, W., King, S.A. and Tissot, P., 2023. **Aggregation strategies to improve XAI for geoscience models that use correlated, high-dimensional rasters**. Environmental Data Science, 2, p.e45.
+
+5. **Kamangir, H.**, Krell, E., Collins, W., King, S.A. and Tissot, P., 2022. **Importance of 3D convolution and physics on a deep learning coastal fog model**. Environmental Modelling \& Software, p.105424.
+6. **Kamangir, H**, Collins, W., Tissot, P., King, S.A., Dinh, H.T.H., Durham, N. and Rizzo, J., 2021. **FogNet: A multiscale 3D CNN with double-branch dense block and attention mechanism for fog prediction**. Machine Learning with Applications, p.100038
+7. Alizadeh, B., Bafti, A.G., **Kamangir, H.**, Zhang, Y., Wright, D.B. and Franz, K.J., 2021. **A novel attention-based LSTM cell post-processor coupled with bayesian optimization for streamflow prediction**. Journal of Hydrology, 601, p.126526.
+   
+8. **Kamangir, H**., Collins, W., Tissot, P. and King, S.A. **Deep‐learning model used to predict thunderstorms within 400 km2 of south Texas domains**. Meteorological Applications, 27(2), 2020.
 
 ---
 
