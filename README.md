@@ -1,6 +1,6 @@
 # 🤖 AI Research Scientist
 
-*Innovative, impact-driven AI researcher with expertise in environmental modeling, climate science, and cutting-edge deep learning techniques.*
+*Pioneering research in AI for environmental science, specializing in climate forecasting, crop yield prediction, and generative models.*
 
 ---
 
@@ -18,41 +18,60 @@
 
 ### Postdoctoral Research Fellow  
 **University of California, Davis**  
-🔹 Conducting AI-driven research for environmental and climate science.  
-🔹 Integrating machine learning models with large-scale environmental datasets.
+🔹 AI research on the Gates Foundation's Gemini Project.
+
 
 ### Research Intern  
 **Microsoft**  
-🔹 Developed a Vision Transformer model for super-resolution of CMIP datasets with ERA5 data.  
-🔹 Focused on creating high-resolution global drought forecasting models.
+🔹 Created a Vision Transformer model for super-resolution of climate CMIP datasets using ERA5 datasets, focusing on global drought forecasting.
 
-### AI Research Associate II  
-**Texas A&M University**  
-🔹 Built a 3D CNN model for coastal fog forecasting.  
-🔹 Developed generative deep learning techniques for thunderstorm prediction.
+### Research Associate II  
+**Texas A&M University, Corpus Christi**  
+🔹 Built 3D CNN models for coastal fog forecasting and developed generative models for thunderstorm prediction.
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🛠️ Technical Skills
 
-- **Machine Learning & Deep Learning**: Vision Transformers, 3D CNNs, Generative Models  
-- **Environmental Data Analysis**: Climate datasets (CMIP, ERA5), large-scale modeling  
-- **Programming**: Python, TensorFlow, PyTorch, MATLAB  
-
----
-
-## 🧩 Projects
-
-- **Global Drought Forecasting Model**  
-  *Leveraging Vision Transformers and climate datasets for accurate drought prediction.*  
-- **Thunderstorm Prediction with Generative Models**  
-  *Creating synthetic weather data to enhance forecasting accuracy.*
+- **Programming Languages**: Python (PyTorch, TensorFlow, Keras), C++, R, MATLAB, SQL, Shell
+- **Cloud and DevOps**: AWS, Azure ML, Kubernetes
+- **Version Control**: GitHub, GitLab
 
 ---
 
-## 📬 Contact
+## 📚 Publications  
+[View on Google Scholar](https://scholar.google.com/citations?user=YLYJGQ8AAAAJ&hl=en)
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [Your GitHub Profile](https://github.com/yourprofile)
+1. **Kamangir, H.**, et al. *FogNet-v2.0: Explainable Physics-Informed Vision Transformer for Coastal Fog Forecasting.* ESS Open Archive, 2024.
+2. Bafti, A.G., et al. *Automated Evapotranspiration Estimation via Hybrid Models.* Atmospheric Research, 2024.
+3. **Kamangir, H.**, et al. *Spatio-Temporal Yield Estimation in Vineyards via Deep Learning.* Computers and Electronics in Agriculture, 2024.
+4. Krell, E., **Kamangir, H.**, et al. *Improving XAI for Geoscience Models Using Correlated High-Dimensional Rasters.* Environmental Data Science, 2023.
+5. **Kamangir, H.**, et al. *Importance of 3D Convolution and Physics in Deep Learning for Coastal Fog.* Environmental Modelling & Software, 2022.
+6. **Kamangir, H.**, et al. *FogNet: A 3D CNN with Double-Branch Dense Blocks for Fog Prediction.* Machine Learning with Applications, 2021.
+7. Alizadeh, B., **Kamangir, H.**, et al. *Streamflow Prediction with Attention-Based LSTM.* Journal of Hydrology, 2021.
+8. **Kamangir, H.**, et al. *Deep-Learning Model for Thunderstorm Prediction in South Texas.* Meteorological Applications, 2020.
+
 ---
+
+## 🎖️ Grants and Funding
+
+**New York Sea Grant (NYSG)**  
+- **Project Title**: AI-Based Forecast Tool for Hypoxia Prediction in Long Island Sound  
+- **Project Number**: R/CMB-52  
+- **Award Amount**: $218,361  
+- **Funding Period**: 06/01/2024 – 05/31/2026  
+- **Role**: Co-Principal Investigator (with Kamazima Lwiza and Philip Orton)
+
+---
+
+## 🏆 Honors and Awards
+
+- **$14,000 Scholarship**  
+  Department of Viticulture and Enology, UC Davis *(2022–2023)*
+
+- **Graduate Research Fellowship**  
+  National Science Foundation *(2020–2022)*
+
+- **3rd Place, Best Student Oral Presentation**  
+  101st American Meteorological Society Annual Meeting *(2021)*
+
