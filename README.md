@@ -21,7 +21,7 @@
 🔹 AI research on the Gates Foundation's Gemini Project.
 
 
-<img src="/assets/img/CMAViT.png" alt="CMAViT" width="80%">
+![CMAViT](/assets/img/CMAViT.png)
 *CMAViT: Climate and Managment Aware Vision Transformer Spatio-Temporal Crop Yield Prediction.*
 
 
@@ -38,10 +38,10 @@
 🔹 Explainable Physics-Informed Vision Transformer for Coastal Fog Forecasting.
 🔹 Built 3D CNN models for coastal fog forecasting and developed generative models for thunderstorm prediction.
 
-![CMAViT](/assets/img/token.png)
+![Tokenization](/assets/img/token.png)
 *Climate and Meteorological Tokenization strategy.*
 
-![CMAViT](/assets/img/model.png)
+![FogNet-V2](/assets/img/model.png)
 *FogNet-v2: Explainable Physics-Informed Vision Transformer for Coastal Fog Forecasting.*
 ---
 
