@@ -20,7 +20,8 @@
 **University of California, Davis**  
 🔹 AI research on the Gates Foundation's Gemini Project.
 
-![CMAViT](/assets/img/CMAViT.png)
+
+<img src="/assets/img/CMAViT.png" alt="CMAViT" width="80%">
 *CMAViT: Climate and Managment Aware Vision Transformer Spatio-Temporal Crop Yield Prediction.*
 
 
@@ -28,7 +29,7 @@
 **Microsoft**  
 🔹 Created a Vision Transformer model for super-resolution of climate CMIP datasets using ERA5 datasets, focusing on global drought forecasting.
 
-![CMIP Super-Resolution Model Demo](/assets/img/CMIP.gif)
+![CMIP Super-Resolution Model Demo](/assets/img/CA_t2m.gif)
 *CMIP Super-Resolution Model. Left: CMIP T2m, Middle: ERA5 T2m, Right: Prediction T2m.*
 
 
