@@ -20,17 +20,28 @@
 **University of California, Davis**  
 🔹 AI research on the Gates Foundation's Gemini Project.
 
+![CMAViT](/assets/img/CMAViT.png)
+*CMAViT: Climate and Managment Aware Vision Transformer Spatio-Temporal Crop Yield Prediction.*
+
 
 ### Research Intern  
 **Microsoft**  
 🔹 Created a Vision Transformer model for super-resolution of climate CMIP datasets using ERA5 datasets, focusing on global drought forecasting.
 
-![Login Functionality Demo](/assets/img/CMIP.gif)
+![CMIP Super-Resolution Model Demo](/assets/img/CMIP.gif)
+*CMIP Super-Resolution Model. Left: CMIP T2m, Middle: ERA5 T2m, Right: Prediction T2m.*
+
 
 ### Research Associate II  
 **Texas A&M University, Corpus Christi**  
+🔹 Explainable Physics-Informed Vision Transformer for Coastal Fog Forecasting.
 🔹 Built 3D CNN models for coastal fog forecasting and developed generative models for thunderstorm prediction.
 
+![CMAViT](/assets/img/token.png)
+*Climate and Meteorological Tokenization strategy.*
+
+![CMAViT](/assets/img/model.png)
+*FogNet-v2: Explainable Physics-Informed Vision Transformer for Coastal Fog Forecasting.*
 ---
 
 ## 🛠️ Technical Skills
