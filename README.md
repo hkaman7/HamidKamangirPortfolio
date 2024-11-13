@@ -25,6 +25,8 @@
 **Microsoft**  
 🔹 Created a Vision Transformer model for super-resolution of climate CMIP datasets using ERA5 datasets, focusing on global drought forecasting.
 
+![Login Functionality Demo](/assets/img/CMIP.gif)
+
 ### Research Associate II  
 **Texas A&M University, Corpus Christi**  
 🔹 Built 3D CNN models for coastal fog forecasting and developed generative models for thunderstorm prediction.
@@ -46,11 +48,9 @@
 2. Bafti, A.G., Ahmadi, A., Abbasi, A., **Kamangir, H**., Jamali, S. and Hashemi, H., 2024. **Automated actual evapotranspiration estimation: Hybrid model of a novel attention based U-Net and metaheuristic optimization algorithms**. Atmospheric Research, 297, p.107107.
 3. **Kamangir, H.**, Sams, B.S., Dokoozlian, N., Sanchez, L. and Earles, J.M., 2024. **Large-scale spatio-temporal yield estimation via deep learning using satellite and management data fusion in vineyards**. Computers and Electronics in Agriculture, 216, p.108439.
 4. Krell, E., **Kamangir, H.,** Collins, W., King, S.A. and Tissot, P., 2023. **Aggregation strategies to improve XAI for geoscience models that use correlated, high-dimensional rasters**. Environmental Data Science, 2, p.e45.
-
 5. **Kamangir, H.**, Krell, E., Collins, W., King, S.A. and Tissot, P., 2022. **Importance of 3D convolution and physics on a deep learning coastal fog model**. Environmental Modelling \& Software, p.105424.
 6. **Kamangir, H**, Collins, W., Tissot, P., King, S.A., Dinh, H.T.H., Durham, N. and Rizzo, J., 2021. **FogNet: A multiscale 3D CNN with double-branch dense block and attention mechanism for fog prediction**. Machine Learning with Applications, p.100038
 7. Alizadeh, B., Bafti, A.G., **Kamangir, H.**, Zhang, Y., Wright, D.B. and Franz, K.J., 2021. **A novel attention-based LSTM cell post-processor coupled with bayesian optimization for streamflow prediction**. Journal of Hydrology, 601, p.126526.
-   
 8. **Kamangir, H**., Collins, W., Tissot, P. and King, S.A. **Deep‐learning model used to predict thunderstorms within 400 km2 of south Texas domains**. Meteorological Applications, 27(2), 2020.
 
 ---
